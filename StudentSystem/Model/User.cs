@@ -1,20 +1,35 @@
-﻿using System;
+﻿using StudentSystem.Others;
+using System;
 
 namespace StudentSystem.Model
 {
-    internal class User
+    public class User
     {
         private string _names;
         private string _password;
-        private string _email;
-        private string _role;
+        private string? _email;
+        private string? _facultyNumber;
+        private UserRolesEnum _role;
         private int _failedLoginAttempts;
 
-        public User(string names, string password, string email, string role, int failedLoginAttempts)
+        public User()
+        {
+            
+        }
+
+        public User(string names, string password, UserRolesEnum role)
+        {
+            this._names = names;
+            this._password = password;
+            this._role = role;
+        }
+
+        public User(string names, string password, string email, string facultyNumber, UserRolesEnum role, int failedLoginAttempts)
         {
             this._names = names;
             this._password = password;
             this._email = email;
+            this._facultyNumber = facultyNumber;
             this._role = role;
             this._failedLoginAttempts = failedLoginAttempts;
         }
@@ -27,8 +42,14 @@ namespace StudentSystem.Model
 
         public string Password
         {
-            get { return _password; }
-            set { _password = value; }
+            get
+            {
+                return Decrypt(_password);
+            }
+            set
+            {
+                _password = Encrypt(value);
+            }
         }
 
         public string Email
@@ -37,7 +58,13 @@ namespace StudentSystem.Model
             set { _email = value; }
         }
 
-        public string Role
+        public string FacultyNumber
+        {
+            get { return _facultyNumber; }
+            set { _facultyNumber = value; }
+        }
+
+        public UserRolesEnum Role
         {
             get { return _role; }
             set { _role = value; }
@@ -51,12 +78,36 @@ namespace StudentSystem.Model
 
         public bool IsAdmin
         {
-            get { return Role.ToUpper() == "ADMIN"; }
+            get { return Role.Equals(UserRolesEnum.ADMIN); }
         }
 
         public bool IsBlocked
         {
             get { return FailedLoginAttempts > 5; }
+        }
+
+        private string Encrypt(string text)
+        {
+            string result = "";
+
+            foreach (char c in text)
+            {
+                result += (char)(c + 1);
+            }
+
+            return result;
+        }
+
+        private string Decrypt(string text)
+        {
+            string result = "";
+
+            foreach (char c in text)
+            {
+                result += (char)(c - 1);
+            }
+
+            return result;
         }
     }
 }

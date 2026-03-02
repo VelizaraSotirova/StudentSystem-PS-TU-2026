@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ТУ-София\\VI sem\\PS\\LU\\StudentSystem\\StudentSystem\\StudentSystem.csproj",
+      "projectUniqueName": "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\StudentSystem.csproj",
       "projectName": "StudentSystem",
-      "projectPath": "D:\\ТУ-София\\VI sem\\PS\\LU\\StudentSystem\\StudentSystem\\StudentSystem.csproj",
+      "projectPath": "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\StudentSystem.csproj",
       "packagesPath": "C:\\Users\\veliz\\.nuget\\packages\\",
-      "outputPath": "D:\\ТУ-София\\VI sem\\PS\\LU\\StudentSystem\\StudentSystem\\obj\\",
+      "outputPath": "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

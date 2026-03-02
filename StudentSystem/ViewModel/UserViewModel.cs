@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using StudentSystem.Model;
+using StudentSystem.Others;
 
 namespace StudentSystem.ViewModel
 {
-    internal class UserViewModel
+    public class UserViewModel
     {
         private User _user;
         public UserViewModel(User user)
@@ -51,6 +52,26 @@ namespace StudentSystem.ViewModel
                     return "BLOCKED";
                 else
                     return $"Hello, {Names}";
+            }
+        }
+
+        public string StudentCard
+        {
+            get
+            {
+                return $"Student: {_user.Names}\n" +
+                       $"Faculty Number: {_user.FacultyNumber}";
+            }
+        }
+
+        public string FullProfile
+        {
+            get
+            {
+                return $"Name: {_user.Names}\n" +
+                       $"Email: {Email}\n" +
+                       $"Role: {_user.Role}\n" +
+                       $"Faculty Number: {_user.FacultyNumber}";
             }
         }
     }

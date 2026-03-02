@@ -16,7 +16,7 @@ namespace StudentSystem
         {
             base.OnStartup(e);
 
-            User user = new User("Velizara Sotirova", "1234", "velizara@abv.bg", "admin", 2);
+            User user = new User("Velizara Sotirova", "1234", "velizara@abv.bg", "121223009", Others.UserRolesEnum.STUDENT, 2);
             UserViewModel userViewModel = new UserViewModel(user);
             MainWindow mainWindow = new MainWindow(userViewModel);
             mainWindow.DisplayUser();

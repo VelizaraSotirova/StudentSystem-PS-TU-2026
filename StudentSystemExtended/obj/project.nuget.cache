@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "n7WnTysjONo=",
+  "success": true,
+  "projectFilePath": "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\StudentSystemExtended.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veliz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.3\\microsoft.extensions.dependencyinjection.10.0.3.nupkg.sha512",
+    "C:\\Users\\veliz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.3\\microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\veliz\\.nuget\\packages\\microsoft.extensions.logging\\10.0.3\\microsoft.extensions.logging.10.0.3.nupkg.sha512",
+    "C:\\Users\\veliz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.3\\microsoft.extensions.logging.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\veliz\\.nuget\\packages\\microsoft.extensions.options\\10.0.3\\microsoft.extensions.options.10.0.3.nupkg.sha512",
+    "C:\\Users\\veliz\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.3\\microsoft.extensions.primitives.10.0.3.nupkg.sha512",
+    "C:\\Users\\veliz\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.3\\system.diagnostics.diagnosticsource.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
