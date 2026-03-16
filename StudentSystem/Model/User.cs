@@ -7,22 +7,10 @@ namespace StudentSystem.Model
     {
         private string _names;
         private string _password;
-        private string? _email;
+        private string _email;
         private string? _facultyNumber;
         private UserRolesEnum _role;
         private int _failedLoginAttempts;
-
-        public User()
-        {
-            
-        }
-
-        public User(string names, string password, UserRolesEnum role)
-        {
-            this._names = names;
-            this._password = password;
-            this._role = role;
-        }
 
         public User(string names, string password, string email, string facultyNumber, UserRolesEnum role, int failedLoginAttempts)
         {

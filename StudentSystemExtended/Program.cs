@@ -16,11 +16,13 @@ namespace StudentSystemExtended
         {
             try
             {
-                var user = new User ("John Doe", "password123", UserRolesEnum.STUDENT);
+                var user = new User ("Velizara Sotirova", "password123", "vsotirova@tu-sofia.bg", "121223009", UserRolesEnum.STUDENT, 0);
 
                 var viewModel = new UserViewModel(user);
 
                 MainWindow w = new MainWindow(viewModel);
+
+                w.DisplayUser();
                 w.ShowDialog();
 
                 w.DisplayError();

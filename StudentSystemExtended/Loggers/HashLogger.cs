@@ -60,7 +60,38 @@ namespace StudentSystemExtended.Loggers
             Console.WriteLine("- LOGGER -");
             Console.ResetColor();
             _logMessages[eventId.Id] = message;
+        }
 
+        public void PrintAllLogs()
+        {
+            foreach (var log in _logMessages)
+            {
+                Console.WriteLine($"EventId: {log.Key} -> Message: {log.Value}");
+            }
+        }
+
+        public void PrintLogById(int eventId)
+        {
+            if (!_logMessages.TryGetValue(eventId, out string? message))
+            {
+                Console.WriteLine("No such event as EventId");
+            }
+            else
+            {
+                Console.WriteLine($"EventId: {eventId} -> Message: {message}");
+            }
+        }
+
+        public void DeleteLogById(int eventId)
+        {
+            if (_logMessages.TryRemove(eventId, out _))
+            {
+                Console.WriteLine($"Log с EventId {eventId} беше изтрит.");
+            }
+            else
+            {
+                Console.WriteLine("Няма такъв Log.");
+            }
         }
     }
 }

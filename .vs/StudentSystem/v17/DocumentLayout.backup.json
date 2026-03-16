@@ -5,62 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{375B35DD-0579-4816-9E82-87B01EE3AA87}|StudentSystemExtended\\StudentSystemExtended.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystemextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{375B35DD-0579-4816-9E82-87B01EE3AA87}|StudentSystemExtended\\StudentSystemExtended.csproj|solutionrelative:studentsystemextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystem\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystem\\obj\\debug\\net8.0-windows\\view\\mainwindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\obj\\debug\\net8.0-windows\\view\\mainwindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystem\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375B35DD-0579-4816-9E82-87B01EE3AA87}|StudentSystemExtended\\StudentSystemExtended.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystemextended\\others\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375B35DD-0579-4816-9E82-87B01EE3AA87}|StudentSystemExtended\\StudentSystemExtended.csproj|solutionrelative:studentsystemextended\\others\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375B35DD-0579-4816-9E82-87B01EE3AA87}|StudentSystemExtended\\StudentSystemExtended.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystemextended\\others\\actiononerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375B35DD-0579-4816-9E82-87B01EE3AA87}|StudentSystemExtended\\StudentSystemExtended.csproj|solutionrelative:studentsystemextended\\others\\actiononerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystem\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystem\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystem\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystem\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystem\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375B35DD-0579-4816-9E82-87B01EE3AA87}|StudentSystemExtended\\StudentSystemExtended.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystemextended\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375B35DD-0579-4816-9E82-87B01EE3AA87}|StudentSystemExtended\\StudentSystemExtended.csproj|solutionrelative:studentsystemextended\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375B35DD-0579-4816-9E82-87B01EE3AA87}|StudentSystemExtended\\StudentSystemExtended.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystemextended\\loggers\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375B35DD-0579-4816-9E82-87B01EE3AA87}|StudentSystemExtended\\StudentSystemExtended.csproj|solutionrelative:studentsystemextended\\loggers\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375B35DD-0579-4816-9E82-87B01EE3AA87}|StudentSystemExtended\\StudentSystemExtended.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystemextended\\loggers\\hashlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375B35DD-0579-4816-9E82-87B01EE3AA87}|StudentSystemExtended\\StudentSystemExtended.csproj|solutionrelative:studentsystemextended\\loggers\\hashlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|d:\\\u0442\u0443-\u0441\u043E\u0444\u0438\u044F\\vi sem\\ps\\project\\studentsystem-ps-tu-2026\\studentsystem\\others\\userrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31256F32-ABAF-4844-B3F9-2B998F1F6BB5}|StudentSystem\\StudentSystem.csproj|solutionrelative:studentsystem\\others\\userrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,182 +30,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.g.i.cs",
-              "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\obj\\Debug\\net8.0-windows\\View\\MainWindow.g.i.cs",
-              "RelativeDocumentMoniker": "StudentSystem\\obj\\Debug\\net8.0-windows\\View\\MainWindow.g.i.cs",
-              "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\obj\\Debug\\net8.0-windows\\View\\MainWindow.g.i.cs",
-              "RelativeToolTip": "StudentSystem\\obj\\Debug\\net8.0-windows\\View\\MainWindow.g.i.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAewCkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T17:36:42.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ActionOnError.cs",
-              "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\Others\\ActionOnError.cs",
-              "RelativeDocumentMoniker": "StudentSystemExtended\\Others\\ActionOnError.cs",
-              "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\Others\\ActionOnError.cs",
-              "RelativeToolTip": "StudentSystemExtended\\Others\\ActionOnError.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T17:15:58.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Delegates.cs",
-              "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\Others\\Delegates.cs",
-              "RelativeDocumentMoniker": "StudentSystemExtended\\Others\\Delegates.cs",
-              "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\Others\\Delegates.cs",
-              "RelativeToolTip": "StudentSystemExtended\\Others\\Delegates.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T17:13:03.937Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\Program.cs",
               "RelativeDocumentMoniker": "StudentSystemExtended\\Program.cs",
               "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\Program.cs",
               "RelativeToolTip": "StudentSystemExtended\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBIAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T16:46:50.385Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\App.xaml.cs",
-              "RelativeDocumentMoniker": "StudentSystem\\App.xaml.cs",
-              "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\App.xaml.cs",
-              "RelativeToolTip": "StudentSystem\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T12:40:17.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\Model\\User.cs",
-              "RelativeDocumentMoniker": "StudentSystem\\Model\\User.cs",
-              "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\Model\\User.cs",
-              "RelativeToolTip": "StudentSystem\\Model\\User.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswBEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T12:43:10.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\App.xaml",
-              "RelativeDocumentMoniker": "StudentSystem\\App.xaml",
-              "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\App.xaml",
-              "RelativeToolTip": "StudentSystem\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-17T12:40:20.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\View\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "StudentSystem\\View\\MainWindow.xaml",
-              "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\View\\MainWindow.xaml",
-              "RelativeToolTip": "StudentSystem\\View\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-17T12:38:49.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\View\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "StudentSystem\\View\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\View\\MainWindow.xaml.cs",
-              "RelativeToolTip": "StudentSystem\\View\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T12:38:45.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "StudentSystem\\AssemblyInfo.cs",
-              "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\AssemblyInfo.cs",
-              "RelativeToolTip": "StudentSystem\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T12:39:25.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserViewModel.cs",
-              "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\ViewModel\\UserViewModel.cs",
-              "RelativeDocumentMoniker": "StudentSystem\\ViewModel\\UserViewModel.cs",
-              "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\ViewModel\\UserViewModel.cs",
-              "RelativeToolTip": "StudentSystem\\ViewModel\\UserViewModel.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAWwA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T12:59:38.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoggerHelper.cs",
-              "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\Helpers\\LoggerHelper.cs",
-              "RelativeDocumentMoniker": "StudentSystemExtended\\Helpers\\LoggerHelper.cs",
-              "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\Helpers\\LoggerHelper.cs",
-              "RelativeToolTip": "StudentSystemExtended\\Helpers\\LoggerHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T17:10:39.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoggerProvider.cs",
-              "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\Loggers\\LoggerProvider.cs",
-              "RelativeDocumentMoniker": "StudentSystemExtended\\Loggers\\LoggerProvider.cs",
-              "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\Loggers\\LoggerProvider.cs",
-              "RelativeToolTip": "StudentSystemExtended\\Loggers\\LoggerProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T17:09:34.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HashLogger.cs",
-              "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\Loggers\\HashLogger.cs",
-              "RelativeDocumentMoniker": "StudentSystemExtended\\Loggers\\HashLogger.cs",
-              "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\Loggers\\HashLogger.cs",
-              "RelativeToolTip": "StudentSystemExtended\\Loggers\\HashLogger.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAUwD0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T16:47:59.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserRolesEnum.cs",
-              "DocumentMoniker": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\Others\\UserRolesEnum.cs",
-              "RelativeDocumentMoniker": "StudentSystem\\Others\\UserRolesEnum.cs",
-              "ToolTip": "D:\\\u0422\u0423-\u0421\u043E\u0444\u0438\u044F\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\Others\\UserRolesEnum.cs",
-              "RelativeToolTip": "StudentSystem\\Others\\UserRolesEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T16:37:47.656Z"
             }
           ]
         }
