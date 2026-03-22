@@ -5,12 +5,22 @@ namespace StudentSystem.Model
 {
     public class User
     {
+        private int _id;
         private string _names;
         private string _password;
         private string _email;
         private string? _facultyNumber;
         private UserRolesEnum _role;
         private int _failedLoginAttempts;
+        private DateTime _expires;
+
+
+        public User(string names, string password, UserRolesEnum role)
+        {
+            this._names = names;
+            this._password = password;
+            this._role = role;
+        }
 
         public User(string names, string password, string email, string facultyNumber, UserRolesEnum role, int failedLoginAttempts)
         {
@@ -20,6 +30,12 @@ namespace StudentSystem.Model
             this._facultyNumber = facultyNumber;
             this._role = role;
             this._failedLoginAttempts = failedLoginAttempts;
+        }
+
+        public int Id
+        {
+            get { return _id; }
+            set { _id = value; }
         }
 
         public string Names
@@ -32,11 +48,11 @@ namespace StudentSystem.Model
         {
             get
             {
-                return Decrypt(_password);
+                return _password;
             }
             set
             {
-                _password = Encrypt(value);
+                _password = value;
             }
         }
 
@@ -62,6 +78,12 @@ namespace StudentSystem.Model
         {
             get { return _failedLoginAttempts; }
             set { _failedLoginAttempts = value; }
+        }
+
+        public DateTime Expires
+        {
+            get { return _expires; }
+            set { _expires = value; }
         }
 
         public bool IsAdmin

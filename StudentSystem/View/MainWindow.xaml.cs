@@ -10,7 +10,6 @@ namespace StudentSystem.View
     /// </summary>
     public partial class MainWindow : Window
     {
-
         private UserViewModel _mainWindow;
         public MainWindow(UserViewModel mainWindow)
         {

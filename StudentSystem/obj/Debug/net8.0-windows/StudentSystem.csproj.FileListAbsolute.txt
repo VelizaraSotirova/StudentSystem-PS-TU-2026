@@ -39,3 +39,5 @@ D:\ТУ-София\VI sem\PS\Project\StudentSystem-PS-TU-2026\StudentSystem\obj\
 D:\ТУ-София\VI sem\PS\Project\StudentSystem-PS-TU-2026\StudentSystem\obj\Debug\net8.0-windows\StudentSystem.pdb
 D:\ТУ-София\VI sem\PS\Project\StudentSystem-PS-TU-2026\StudentSystem\obj\Debug\net8.0-windows\StudentSystem.genruntimeconfig.cache
 D:\ТУ-София\VI sem\PS\Project\StudentSystem-PS-TU-2026\StudentSystem\obj\Debug\net8.0-windows\ref\StudentSystem.dll
+D:\ТУ-София\VI sem\PS\Project\StudentSystem-PS-TU-2026\StudentSystem\obj\Debug\net8.0-windows\View\LoginWindow.g.cs
+D:\ТУ-София\VI sem\PS\Project\StudentSystem-PS-TU-2026\StudentSystem\obj\Debug\net8.0-windows\View\LoginWindow.baml
