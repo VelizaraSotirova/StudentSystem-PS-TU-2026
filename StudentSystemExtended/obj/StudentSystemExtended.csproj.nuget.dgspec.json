@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\StudentSystemExtended.csproj": {}
+    "D:\\TU-Sofia\\VI_sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\StudentSystemExtended.csproj": {}
   },
   "projects": {
-    "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\StudentSystemExtended.csproj": {
+    "D:\\TU-Sofia\\VI_sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\StudentSystemExtended.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\StudentSystemExtended.csproj",
+        "projectUniqueName": "D:\\TU-Sofia\\VI_sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\StudentSystemExtended.csproj",
         "projectName": "StudentSystemExtended",
-        "projectPath": "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\StudentSystemExtended.csproj",
+        "projectPath": "D:\\TU-Sofia\\VI_sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\StudentSystemExtended.csproj",
         "packagesPath": "C:\\Users\\veliz\\.nuget\\packages\\",
-        "outputPath": "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\obj\\",
+        "outputPath": "D:\\TU-Sofia\\VI_sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystemExtended\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\StudentSystem.csproj": {
-                "projectPath": "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\StudentSystem.csproj"
+              "D:\\TU-Sofia\\VI_sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\StudentSystem.csproj": {
+                "projectPath": "D:\\TU-Sofia\\VI_sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\StudentSystem.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\StudentSystem.csproj": {
+    "D:\\TU-Sofia\\VI_sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\StudentSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\StudentSystem.csproj",
+        "projectUniqueName": "D:\\TU-Sofia\\VI_sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\StudentSystem.csproj",
         "projectName": "StudentSystem",
-        "projectPath": "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\StudentSystem.csproj",
+        "projectPath": "D:\\TU-Sofia\\VI_sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\StudentSystem.csproj",
         "packagesPath": "C:\\Users\\veliz\\.nuget\\packages\\",
-        "outputPath": "D:\\ТУ-София\\VI sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\obj\\",
+        "outputPath": "D:\\TU-Sofia\\VI_sem\\PS\\Project\\StudentSystem-PS-TU-2026\\StudentSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -126,6 +126,28 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.25, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

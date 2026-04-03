@@ -14,7 +14,10 @@ namespace StudentSystem.Model
         private int _failedLoginAttempts;
         private DateTime _expires;
 
-
+        public User()
+        {
+            
+        }
         public User(string names, string password, UserRolesEnum role)
         {
             this._names = names;
@@ -62,7 +65,7 @@ namespace StudentSystem.Model
             set { _email = value; }
         }
 
-        public string FacultyNumber
+        public string? FacultyNumber
         {
             get { return _facultyNumber; }
             set { _facultyNumber = value; }

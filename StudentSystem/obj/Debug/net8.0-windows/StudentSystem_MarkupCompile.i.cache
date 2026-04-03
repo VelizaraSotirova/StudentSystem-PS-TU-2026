@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\ТУ-София\VI sem\PS\Project\StudentSystem-PS-TU-2026\StudentSystem\obj\Debug\net8.0-windows\
+D:\TU-Sofia\VI_sem\PS\Project\StudentSystem-PS-TU-2026\StudentSystem\obj\Debug\net8.0-windows\
 StudentSystem
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-D:\ТУ-София\VI sem\PS\Project\StudentSystem-PS-TU-2026\StudentSystem\App.xaml
-21183532036
+D:\TU-Sofia\VI_sem\PS\Project\StudentSystem-PS-TU-2026\StudentSystem\App.xaml
+3-2086696662
 
-13495665397
-198338916705
-View\LoginWindow.xaml;View\MainWindow.xaml;
+17-1952216218
+227488452862
+View\AdminWindow.xaml;View\LoginWindow.xaml;View\MainWindow.xaml;
 
 True
 

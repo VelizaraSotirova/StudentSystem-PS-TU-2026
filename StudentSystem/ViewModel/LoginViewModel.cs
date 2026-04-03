@@ -38,16 +38,24 @@ namespace StudentSystem.ViewModel
                 return;
 
             var user = _userLoginAttempt.ExecuteLoginUser();
-
             _userLoginAttempt.PushLoggedInStatus();
 
-            // Going to MainWindow with the logged in user
-            var userViewModel = new UserViewModel(user);
-            var mainWindow = new MainWindow(userViewModel);
+            if (user.Role.Equals(Others.UserRolesEnum.ADMIN))
+            {
+                var adminViewModel = new AdminViewModel();
+                var adminWindow = new AdminWindow(adminViewModel);
 
-            mainWindow.DisplayUser();
-            mainWindow.Show();
+                adminWindow.Show();
+            }
+            else
+            {
+                // Going to MainWindow with the logged in user
+                var userViewModel = new UserViewModel(user);
+                var mainWindow = new MainWindow(userViewModel);
+
+                mainWindow.DisplayUser();
+                mainWindow.Show();
+            }
         }
-
     }
 }

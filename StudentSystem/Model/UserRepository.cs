@@ -6,7 +6,7 @@ namespace StudentSystem.Model
 {
     public class UserRepository
     {
-        private List<User> _users;
+        protected IEnumerable<User> _users;
         private int _nextId;
 
         public UserRepository()
@@ -15,19 +15,20 @@ namespace StudentSystem.Model
             _nextId = 0;
         }
 
-        public void AddUser(User user)
+        public virtual void AddUser(User user)
         {
             user.Id = _nextId++;
-            _users.Add(user);
+            _users.Append(user);
         }
 
-        public void DeleteUser(int id)
+        public virtual void DeleteUser(int id)
         {
-            var user = _users.FirstOrDefault(u => u.Id == id);
-            if (user != null)
-            {
-                _users.Remove(user);
-            }
+            _users = _users.Where(u => u.Id != id);
+            //var user = _users.FirstOrDefault(u => u.Id == id);
+            //if (user != null)
+            //{
+            //    _users.Remove(user);
+            //}
         }
 
         public bool ValidateUser(string name, string password)
